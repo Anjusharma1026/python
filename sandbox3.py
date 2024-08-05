@@ -1,0 +1,5 @@
+records = input("Enter how many records? ")
+title = input("Enter the book title:")
+author = input("Enter the book author:")
+price = input("Enter the book price:")
+stock = input("Enter the stock quantity:")
